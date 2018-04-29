@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\lenovo\Desktop\TareasAsincronas-master\TareasAsincronas.iml" filepath="C:\Users\lenovo\Desktop\TareasAsincronas-master\TareasAsincronas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TareasAsincronas-master.iml" filepath="$PROJECT_DIR$/TareasAsincronas-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\lenovo\Desktop\TareasAsincronas-master\app\app.iml" filepath="C:\Users\lenovo\Desktop\TareasAsincronas-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
